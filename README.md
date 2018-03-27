@@ -1,2 +1,6 @@
 # encryption-algo-draft
-First dummy project repo
+Hi There,
+
+This is a dummy project.
+
+First dummy project repository.
